@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="38eaab86-7c53-4e03-a527-dcc60ec3fe87" name="118.24.116.248" url="http://funeng.sanhedao.com.cn">
+        <fileTransfer host="funeng.sanhedao.com.cn" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
